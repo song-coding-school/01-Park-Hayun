@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=1기%20박하윤의%20스크래치%203.0%20게임&fontSize=45&animation=fadeIn&fontAlignY=38)
 
+<h4>게임</h4>
 <ul>
 	<li>
-    <a href="https://song-coding-school.github.io/01-Park-Hayun/">박하윤의 똥 피하기 게임 바로가기</a>
-  </li>
+		<a href="https://song-coding-school.github.io/01-Park-Hayun/">똥 피하기 게임 바로가기</a>
+	</li>
 </ul>
 
 <h4>Powerd by</h4>
